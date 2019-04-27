@@ -12,7 +12,7 @@ python gaz_mine.py --target_language LAN_CODE --output_dir OUTPUT_DIR --database
 
 LAN_CODE is ISO 639-1 language code
 
-output format (location names in TARGET name, English name and Name type, separted by tab)
+output format (names in TARGET language, English and Name type, separted by tab)
 ```
 一一九號橋      Number 119 Bridge       GPE
 一一五號橋      Number 115 Bridge       GPE
