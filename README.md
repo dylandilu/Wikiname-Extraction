@@ -1,6 +1,7 @@
 # Wikiname-Extraction
 The script is a tool to extrac gazetteer for target language from [Wikipedia](https://www.wikipedia.org/).
-Th script is written in Pythton 3.6+
+The script is written in Pythton 3.6+
+
 #Usage
 [Downlad](https://www.dropbox.com/s/x0w1fljdz33ynoh/all-data.uniq?dl=0) preprocessed Wiki dataabse.
 
